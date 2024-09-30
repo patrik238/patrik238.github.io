@@ -15,7 +15,9 @@
 }
 
 a {
-  
+  text-decoration: none;
+  font-weight: bold;
+  color: red;
 }
 .img-thumbnail{
 	width:250px;
@@ -33,4 +35,16 @@ p, li {
   text-indent: 20px;
 }
 
+#keret{
+  background-color: rgba(234, 200, 150, 0.9)
+}
 
+.kep1{
+  margin: 20px;
+}
+
+a
+
+#forras{
+  margin-top: 30px;
+}
