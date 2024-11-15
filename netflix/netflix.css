@@ -1,5 +1,5 @@
 body{
-    background-image: 
+    background-image: url(https://raw.githubusercontent.com/patrik238/patrik238.github.io/refs/heads/main/netflix/kep/hatter.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -9,12 +9,13 @@ h1{
     text-align: center;
 }
 
-h2, p{
+h2, h3 {
     text-align: center;
+    color: white;
+    padding: 3px;
 }
 
 body, html{
     height: 100%;
     box-sizing: border-box;
 }
-
