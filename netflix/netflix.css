@@ -43,3 +43,11 @@ html, body {
 footer {
     margin-top: auto; 
 }
+
+.prices{
+    color:#e30a15;
+}
+
+li, h5{
+    margin: 5px;
+}
